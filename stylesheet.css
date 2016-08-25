@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+    margin: 100px;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-left: 100px;
+    border: dotted;
+    font-family: "arial"
+
+
+}
+
+h1 {
+    color: red;
+    text-align:center;
+
+}
+h3 {
+	color: yellow;
+}
+p {
+	color: orange;
+
+}
+
+
+tr {
+	color: brown;
+
+}
+
+#kd {
+	border-radius: 10000px
+
+}
